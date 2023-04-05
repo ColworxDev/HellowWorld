@@ -16,8 +16,8 @@ Outcome: Able to design your app with the Layout adding UI’s, learned how to w
 
 
 
-![image](Screenshot_20230404_184745.png = 250x250)
+<img src="Screenshot_20230404_184745.png" width="100" height="100">
 
-![image2](Screenshot_20230404_184837.png = 250x250)
+<img src="Screenshot_20230404_184837.png" width="100" height="100">
 
-![image3](Screenshot_20230404_184845.png = 250x250)
+<img src="Screenshot_20230404_184845.png" width="100" height="100">
