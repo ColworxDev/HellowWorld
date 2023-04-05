@@ -16,8 +16,8 @@ Outcome: Able to design your app with the Layout adding UI’s, learned how to w
 
 
 
-<img src="Screenshot_20230404_184745.png" width="100" height="100">
+<img src="Screenshot_20230404_184745.png" width="100" >
 
-<img src="Screenshot_20230404_184837.png" width="100" height="100">
+<img src="Screenshot_20230404_184837.png" width="100">
 
-<img src="Screenshot_20230404_184845.png" width="100" height="100">
+<img src="Screenshot_20230404_184845.png" width="100">
