@@ -15,9 +15,13 @@ Outcome: Able to design your app with the Layout adding UI’s, learned how to w
 
 
 
+<div style="display:inline"> 
 
-<img src="Screenshot_20230404_184745.png" width="150" >
 
-<img src="Screenshot_20230404_184837.png" width="150">
+   <img src="Screenshot_20230404_184745.png" width="150" >
+ 
+  <img src="Screenshot_20230404_184837.png" width="150" >
 
-<img src="Screenshot_20230404_184845.png" width="150">
+  <img src="Screenshot_20230404_184845.png" width="150" >
+     
+</div>
