@@ -16,8 +16,8 @@ Outcome: Able to design your app with the Layout adding UI’s, learned how to w
 
 
 
-![image](Screenshot_20230404_184745.png)
+![image](Screenshot_20230404_184745.png | height=100)
 
-![image2](Screenshot_20230404_184837.png)
+![image2](Screenshot_20230404_184837.png | height=100)
 
-![image3](Screenshot_20230404_184845.png)
+![image3](Screenshot_20230404_184845.png | height=100)
